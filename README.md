@@ -1,8 +1,8 @@
 # Dsa-list
 ***During my Programming pathsala classes.***
 ### time and space complexity 
-https://www.geeksforgeeks.org/time-complexity-and-space-complexity/
-https://www.geeksforgeeks.org/time-complexity-and-space-complexity/
+- https://www.geeksforgeeks.org/time-complexity-and-space-complexity/
+- https://www.geeksforgeeks.org/time-complexity-and-space-complexity/
 
 **Logic and interview based**
 ***(Try to do all these questions by the most effictive way not for the shake to do them)***
